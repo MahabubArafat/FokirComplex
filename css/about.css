@@ -1,0 +1,25 @@
+#about-showcase {
+  background-image: url("../images/Group-members.jpg");
+  /*	background-position: center right;*/
+  background-repeat: no-repeat;
+  min-height: 1500px;
+  padding: 0;
+
+  position: relative;
+}
+#main-footer {
+  margin-top: 0;
+  top: 1600px;
+}
+
+#about-showcase h1 {
+  position: absolute;
+  top: 300px;
+  text-transform: uppercase;
+  color: #17d4ff;
+  font-size: 60px;
+  font-weight: 50px;
+  line-height: 1.6em;
+  padding-top: 30px;
+  text-align: center;
+}

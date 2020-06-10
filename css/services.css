@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+.background {
+  width: 100%;
+  background-image: url("../images/call_center.jpg");
+  background-repeat: no-repeat;
+  min-height: 1070px;
+}
+#main-footer {
+  top: 1075px;
+}

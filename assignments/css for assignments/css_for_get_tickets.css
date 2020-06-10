@@ -1,0 +1,49 @@
+body{
+      margin: 0;
+      padding: 0;
+      border: 0;
+}
+#navbar{
+      background-color: #244c6e;
+      padding: 0;
+      margin: 0;
+      
+}
+
+#navbar ul{
+      text-decoration: none;
+      list-style-type: none;
+      /* color:black; */
+}
+#navbar a{
+      /* float: right; */
+      text-decoration: none;
+      /* background-color: lightblue; */
+      color: ivory;
+}
+
+.section1 img{
+      padding-top: 80px;
+      height: 200px;
+      width: 200px;
+}
+.section1{
+      padding: 0;
+      margin: 0;
+      width: 100%;
+      height: 500px;
+      background-image: url('../images/conference-hero.jpg');
+      background-color: #bdd5ea;
+      text-align: center;
+      color: mintcream;
+
+}
+
+.section2{
+      text-align: center;
+}
+
+#main-footer{
+      background-color: #244c6e;
+      color: mintcream;
+}
